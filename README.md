@@ -29,7 +29,7 @@ Di C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-https://github.com/blacktiger2023/blackbots.git
+- `https://github.com/blacktiger2023/blackbots.git
 <!---
 blacktiger2023/blacktiger2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -51,5 +51,4 @@ INSTALL Di TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- 
-https://github.com/blacktiger2023/blackbots.git
+- `https://github.com/blacktiger2023/blackbots.git
